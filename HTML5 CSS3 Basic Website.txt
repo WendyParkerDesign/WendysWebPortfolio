@@ -1,0 +1,3 @@
+This is my first Web Portfolio created in Dreamweaver in October 2014. It is very basic using HTML5 and CSS3. The gallery doesn't work very well. I upgraded this feature and more in my newer version Wendy's Enhanced Portfolio.
+
+~ Wendy Parker
